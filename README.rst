@@ -19,7 +19,7 @@ This module is a work in progress, thus currently poorly documented :-/
 License
 =======
 
-Copyright © 2018 Necdet Can Ateşman, Vienna, Austria
+Copyright © 2018,2019 Necdet Can Ateşman, Vienna, Austria
 
 All files in and beneath this directory are part of The SCORE Framework.
 The SCORE Framework and all its parts are free software: you can redistribute
